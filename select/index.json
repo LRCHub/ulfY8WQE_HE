@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "レーゾンデートル",
+  "base_artist": "Eve",
+  "createdAt": "2026-02-15T13:14:00.447438Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Raison D'être (レーゾンデートル)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_Raison_D'être_(レーゾンデートル)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Raison D’être [レーゾンデートル]",
+      "artist": "clammbon",
+      "has_synced": true,
+      "path": "select/02_Raison_D’être_[レーゾンデートル]_clammbon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "レーゾンデートル",
+      "artist": "姫柊雪菜 (種田梨沙)",
+      "has_synced": false,
+      "path": "select/03_レーゾンデートル_姫柊雪菜_(種田梨沙).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レーゾンデートル",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/04_レーゾンデートル_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レーゾンデートル",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_レーゾンデートル_Eve.txt"
+    }
+  ]
+}
